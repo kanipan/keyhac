@@ -52,6 +52,8 @@ def configure(keymap):
       keymap_terminal[ "Cmd-R" ] = "Ctrl-R"
       keymap_terminal[ "Cmd-H" ] = "Ctrl-H"
       keymap_terminal[ "Cmd-M" ] = "Ctrl-M"
+      keymap_terminal[ "Cmd-F" ] = "Ctrl-F"
+      keymap_terminal[ "Cmd-B" ] = "Ctrl-B"
       keymap_terminal[ "Cmd-J" ] = "Ctrl-Shift-Tab"
       keymap_terminal[ "Cmd-Semicolon" ] = "Ctrl-Tab"
       keymap_terminal[ "BackQuote" ] = "Ctrl-C"
